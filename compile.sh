@@ -1,4 +1,4 @@
 git add -A; 
-git commit -m "init";
+git commit -m "Update";
 git pull;
 git push;
